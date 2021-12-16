@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@react-native-web-nx-demo/design-system": [
+        "libs/design-system/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

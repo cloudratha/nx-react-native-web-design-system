@@ -2,6 +2,9 @@
   "version": 2,
   "projects": {
     "demo-app": "apps/demo-app",
-    "demo-app-e2e": "apps/demo-app-e2e"
+    "demo-app-e2e": "apps/demo-app-e2e",
+    "design-system": "libs/design-system",
+    "web": "apps/web",
+    "web-e2e": "apps/web-e2e"
   }
 }

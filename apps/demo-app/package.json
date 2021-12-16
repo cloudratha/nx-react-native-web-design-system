@@ -7,6 +7,9 @@
     "@testing-library/react-native": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-svg": "*"
+    "react-native-safe-area-context": "*",
+    "react-native-svg": "*",
+    "native-base": "*",
+    "@testing-library/react": "*"
   }
 }
